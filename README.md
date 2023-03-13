@@ -85,6 +85,11 @@ I am an experienced Senior Software Engineer with expertise in Full-Stack Develo
 
 <summary>More Skills</summary>
 
+![](https://img.shields.io/badge/Skill-Team%20Leadership-blue)
+![](https://img.shields.io/badge/Skill-Project%20Management-blue)
+![](https://img.shields.io/badge/Skill-Quality-Focused-blue)
+![](https://img.shields.io/badge/Skill-Communication-blue)
+![](https://img.shields.io/badge/Skill-Adaptability-blue)
 ![](https://img.shields.io/badge/Skill-Creativity-blue)
 ![](https://img.shields.io/badge/Skill-Innovative-blue)
 ![](https://img.shields.io/badge/Skill-Analyst-blue)
