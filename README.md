@@ -19,7 +19,7 @@ I am an experienced Senior Software Engineer with expertise in Full-Stack Develo
 </a>
 
 <a href="https://github.com/daopapp">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=daopapp&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Luiz Rafael's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=daopapp&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Rodrigo Cadima's GitHub Stats" />
 </a>
 
 <summary>Skills</summary>
