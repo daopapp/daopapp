@@ -1,6 +1,6 @@
 ### Hi, I'm Rodrigo Papp 👋
 I am an experienced Senior Software Engineer with expertise in Full-Stack Development, Project Management, Mainframe.
-- 👨‍💻 I have 15 years of experience in the field, working with Cobol, JCL, DB2, PHP, Mongodb, Javascript, Vue, Node, Oracle, Plsql, HTML, CSS, Jquery, React, C#, .net.
+- 👨‍💻 I have 16 years of experience in the field, working with Cobol, JCL, DB2, PHP, Mongodb, Javascript, Vue, Node, Oracle, Plsql, HTML, CSS, Jquery, React, C#, .net.
 - 📚 I am constantly learning and staying up-to-date with the latest industry trends, technologies, and best practices.
 - 🤝 I enjoy collaborating with teams and individuals to create innovative solutions that solve complex business problems.
 - 💻 In my previous roles, I have successfully delivered projects for clients in various industries such as Telecom, Assurance, Marketing and Citzienship.
