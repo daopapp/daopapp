@@ -1,8 +1,10 @@
 ## Rodrigo Papp
 
-Senior Software Engineer, 16 years. The first half of my career was IBM mainframe (COBOL, DB2, CICS, JCL) in telecom and insurance. The second half has been building and shipping web and mobile products. I use both: the discipline of systems where a bad deploy costs real money, applied to a modern React and Firebase stack.
+Senior Full-Stack Engineer and Tech Lead, 18 years. Seven of them building production PHP with Laravel and Symfony, paired with TypeScript front ends in React, Next.js and Vue. My track record is modernising legacy PHP: introducing React and Vite architectures into codebases that had none, and shipping features that go all the way through, from API design and data modelling to component architecture and CI.
 
-I take products the whole way: data model, auth, security rules, payments, CI, store release, landing page. Some of it is open source, most of it is not, so the public repository list here is smaller than the contribution graph.
+I started on IBM mainframe, writing COBOL, DB2 and JCL for telecom and insurance systems with 24/7 production support. That is where I learned what a bad deploy costs, and I have not needed to relearn it since.
+
+Currently leading the engineering and AI teams of an automation platform on Google Cloud. Most of that work is private, so the repository list here is smaller than the contribution graph.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-papp-cadima/)
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:daopapp@gmail.com)
@@ -49,18 +51,22 @@ These are my defaults on a project, whether or not anyone asks for them:
 
 | | |
 |---|---|
-| **Front end** | TypeScript, React, Vue, Astro, Tailwind, Radix and shadcn/ui, Storybook |
+| **PHP** | Laravel, Symfony, Composer, PSR, REST APIs, JWT, OpenAPI |
+| **Front end** | TypeScript, React, Next.js, Vue, Astro, Tailwind, Radix and shadcn/ui, Storybook |
+| **Other back end** | Node with Fastify and Express, Python with FastAPI, C# and .NET Core |
 | **Mobile** | Capacitor (Android and iOS) |
-| **Back end** | Node, Firebase (Auth, Firestore, Functions, Hosting), PHP with Laravel and Symfony, C# and .NET |
-| **Data** | MySQL, MongoDB, Oracle and PL/SQL, DB2 |
-| **Infra** | Docker, GitHub Actions, AWS, Azure, RabbitMQ |
+| **Data** | PostgreSQL, MySQL, MongoDB, Elasticsearch, Redis, Firestore, Oracle and PL/SQL, DB2 |
+| **Cloud and infra** | Google Cloud, AWS, Firebase, Docker, GitHub Actions, RabbitMQ, Gearman |
+| **AI** | AI agents, RAG, Vertex AI, Claude API and Claude Code |
 | **Testing** | Playwright, Vitest, security rules tests, axe |
-| **Mainframe** | COBOL, DB2, CICS, JCL, VSAM, TSO |
+| **Mainframe** | COBOL, JCL, DB2, CICS, VSAM, TSO |
 
-Portuguese (native), English, Spanish.
+Portuguese (native), English (B2).
 
 ---
 
-### Before this
+### Leading, not only building
 
-Delivery and project management alongside engineering: feasibility analysis, scope and deadline negotiation, cost and quality tracking, following PMI, ITIL and COBIT. Telecom, insurance, marketing, and citizenship and immigration services.
+Scrum Master on a cross-functional team: ran the ceremonies, removed blockers, owned production incident response with root-cause analysis. Before moving back to hands-on engineering, I spent four years in delivery management at IBM, leading a 23-person team across four baselines totalling around 4,200 hours a month, and before that a development and support team of 22 across core insurance systems. PMI, ITIL and COBIT in practice, not as a certificate.
+
+Industries: telecom, insurance, marketing automation, public sector, and immigration services.
